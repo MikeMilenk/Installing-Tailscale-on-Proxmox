@@ -95,3 +95,4 @@ Open:
 Machines → Select your Proxmox host → Disable Key Expiry
 
 This prevents the server from requiring periodic re-authentication.
+![Disable Key Expiry](https://github.com/MikeMilenk/Installing-Tailscale-on-Proxmox/blob/5081490fd2b2fddecd50190c697b2bb77afd6e32/Disable%20Key%20Expiry.png)
